@@ -1,16 +1,6 @@
-"""
-I am a doc docstring
-"""
 
 import random
 import numpy as np
-
-class Cubie:
-    """
-
-    """
-    def __init__(self):
-        pass
 
 
 class RubikCube:
